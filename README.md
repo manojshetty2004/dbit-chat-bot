@@ -20,11 +20,3 @@ DBIT Chat Bot is a **real-time college chatbot** designed for students to access
 **Database:** Supabase (PostgreSQL) / MongoDB Atlas  
 **Vector DB:** Qdrant Cloud (free tier) / Pinecone  
 **AI Models:** Hugging Face (free tier) / Ollama (local open-source)  
-
----
-
-## 📂 Project Structure  
-**Frontend:** React chat UI
-**Backend:** Node.js server + Socket.IO
-**Database:** Supabase/Mongo setup
-**ai:** Embedding + vector search scripts
